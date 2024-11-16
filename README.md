@@ -10,11 +10,8 @@
 Далее переходим к установке docker с использованием grafana, вводим следующий набор команд:
 
 1. `sudo yum install wget` Эта команда устанавливает утилиту wget, которая нужна для скачивания файлов из интернета.
-
-![изображение](https://github.com/user-attachments/assets/4572afee-f959-4372-8e4a-1ad9d0f968c1)
-
-
-2. `sudo wget -P /etc/yum.repos.d/ https://download.docker.com/linux/centos/docker-ce.repo`
+2. 
+3. `sudo wget -P /etc/yum.repos.d/ https://download.docker.com/linux/centos/docker-ce.repo`
 
 • Загружаем репозиторий Docker в вашу систему для дальнейшей установки.
 
